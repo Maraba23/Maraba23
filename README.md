@@ -1,6 +1,6 @@
 # Marcelo Rabello Barranco's profile
 
-<p>Hello, I am a full stack developing studing computer science on Insper</p>
+<p>Hello, I am a full stack developer studing computer science on Insper</p>
 
 <h2> Programing languages: <h2>
 <ul>
