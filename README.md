@@ -4,16 +4,16 @@
 
 <h2> Programing languages: <h2>
 <ul>
-<li> Python (fluent) </li>
+<li> Python (fluent) </li><br>
 <li> Front End: </li>
-<ul>
+<ul><br>
 <li> Html </li>
 <li> Css </li>
 <li> Js </li>
 <li> JQuery </li>
-</ul>
+</ul><br><br>
 <li> Back End: </li>
-<ul>
+<ul><br>
 <li> Django </li>
 <li> Django Rest (learning) </li>
 <li> Flask (learning) </li>
