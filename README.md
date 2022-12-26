@@ -15,8 +15,7 @@
 <li> Back End: </li>
 <ul><br>
 <li> Django </li>
-<li> Django Rest (learning) </li>
-<li> Flask (learning) </li>
-<li> Laravel/php (learning) </li>
+<li> Django Rest </li>
+  <li> Flask </li>
 </ul>
 </ul>
