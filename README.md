@@ -1,21 +1,17 @@
 # Name: Marcelo Rabello Barranco
 
-<p>Hello, I am a full stack developer studing computer science on Insper</p>
+<p align='center' font='bolder'>Hello, I am a full stack developer studing computer science on Insper</p>
 
-<h2> Programing languages: <h2>
-<ul>
-<li> Python (fluent) </li><br>
-<li> Front End: </li>
-<ul><br>
-<li> Html </li>
-<li> Css </li>
-<li> Js </li>
-<li> JQuery </li>
-</ul><br><br>
-<li> Back End: </li>
-<ul><br>
-<li> Django </li>
-<li> Django Rest </li>
-  <li> Flask </li>
-</ul>
-</ul>
+<h3 align='center'> About me: <a href='https://maraba23.github.io'>https://maraba23.github.io</a></h3>
+
+<br>
+<h2 align="left">
+  My Statistics
+</h2>
+<div align="center">
+  <a href="https://github.com/ArthurCisotto">
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maraba23&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Maraba23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maraba23&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="500em" src="https://activity-graph.herokuapp.com/graph?username=ArthurCisotto&custom_title=Maraba23's%20Contribution%20Graph&theme=dracula&hide_border=true"/>
+<div>
