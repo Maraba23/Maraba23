@@ -1,6 +1,6 @@
 # Name: Marcelo Rabello Barranco
 
-<p align='center' font='bolder'>Hello, I am a full stack developer studing computer science on Insper</p>
+<p align='center' font='bolder'>Hello, I am a full stack developer studing computer science at Insper</p>
 
 <h3 align='center'> About me: <a href='https://maraba23.github.io'>https://maraba23.github.io</a></h3>
 
