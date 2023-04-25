@@ -9,9 +9,9 @@
   My Statistics
 </h2>
 <div align="center">
-  <a href="https://github.com/ArthurCisotto">
+  <a href="https://github.com/Maraba23">
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maraba23&theme=dracula"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Maraba23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maraba23&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="500em" src="https://activity-graph.herokuapp.com/graph?username=ArthurCisotto&custom_title=Maraba23's%20Contribution%20Graph&theme=dracula&hide_border=true"/>
+  <img height="500em" src="https://activity-graph.herokuapp.com/graph?username=Maraba23&custom_title=Maraba23's%20Contribution%20Graph&theme=dracula&hide_border=true"/>
 <div>
