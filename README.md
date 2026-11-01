@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Maraba23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=7209B7&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Insper;Web+development+%2B+Cybersecurity;Game+reverse+engineering+in+C%2B%2B;Reinforcement+learning+experiments;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=7209B7&center=true&vCenter=true&width=600&lines=Founder+of+InsperSec;40%2B+CTF+challenges+authored;Web+AppSec+%2B+Blue+Team;Reverse+engineering+in+C%2B%2B;Full+stack+developer+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,24 +17,55 @@
 
 ---
 
-## 👨‍💻 About me
+## 🛡️ About me
 
-```python
-class Marcelo:
-    location   = "São Paulo, Brazil 🇧🇷 🇵🇹"
-    education  = "Computer Science @ Insper"
-    focus      = ["Full stack web", "Cybersecurity", "Game reverse engineering", "AI / RL"]
-    community  = "Founder of InsperSec, Insper's security student organization (led it 2022-2025)"
-    languages  = {"Portuguese": "native", "English": "B2"}
-
-    def fun_fact(self):
-        return "I learn best by breaking things, then building them back better."
+```yaml
+whoami:
+  name:      Marcelo Rabello Barranco
+  location:  São Paulo, Brazil 🇧🇷 🇵🇹
+  education: Computer Science @ Insper
+  role:      Security-minded full stack developer
+  focus:     [Web AppSec, CTF engineering, Blue Team, Reverse Engineering]
+  languages: { Portuguese: native, English: B2 }
 ```
 
-- 🔐 Founded **InsperSec** in 2022 and led it until 2025: CTFs, security talks and hands-on hacking workshops
-- 🧠 Exploring **reinforcement learning**: Q-Learning, SARSA, Deep Q-Learning, game-playing bots
-- 🎮 Studying **game internals**: Unreal Engine and C++ reverse engineering (for educational purposes)
-- 🏗️ Shipping real-world solutions through Insper sprint sessions with companies like **Dell, PagSeguro and BotCity**
+### 🏴 InsperSec, Founder & Leader (2022 – 2025)
+
+I founded **InsperSec**, Insper's cybersecurity student organization, and led it for three years, growing it from an idea into a community where students learn security by doing.
+
+- 🎓 Ran **workshops and hands-on classes** on web security, networking, forensics and tooling (Burp Suite, Nmap, IDA)
+- 📚 Wrote the organization's **internal documentation** and learning tracks for new members
+- 🏆 Organized **internal CTF competitions** and training labs for members and students
+- 🤝 Built the org's **member website** and shared tooling under the [InsperSec GitHub org](https://github.com/gitinspersec)
+
+### 🚩 CTF challenge author
+
+I've designed and shipped **40+ original CTF challenges**, each with its own container and official write-up:
+
+| Category | Examples of topics covered |
+|---|---|
+| 🌐 **Web** | IDOR, session hijacking, Flask session forgery, SQL injection, file upload flaws |
+| 🔐 **Crypto** | Weak RSA, RSA broadcast attack, XOR variants, one-time-pad misuse, hash collisions |
+| 🔎 **Forensics** | PCAP analysis, LSB steganography, file analysis |
+| 🛡️ **Blue Team** | Log investigation, DNS exfiltration detection, phishing header analysis |
+| 🕵️ **OSINT** | Git history leaks, social media investigation |
+| 🧩 **Reversing** | Obfuscated JavaScript, binary analysis with IDA |
+| 📁 **Incident cases** | Story-driven investigations, including a WannaCry-themed scenario |
+
+### 🏗️ CTF platform & infrastructure
+
+I built the platform that runs these challenges end to end:
+
+- 🐳 **On-demand containerized labs**: each student gets isolated challenge instances, created and torn down via an API
+- 🔒 **Hardened by design**: mutual TLS between backend and orchestrator, API key rotation without downtime, fail2ban on SSH
+- 🧾 **Self-healing inventory**: the backend reconciles running containers against the database to clean up orphaned labs
+- 🖥️ Full stack: Flask API + web frontend for challenge browsing, scoring and lab management
+
+### 🧠 Also into
+
+- 🎮 **Game internals & reverse engineering** in C++ and Python ([UnrealReversalPythonBase](https://github.com/Maraba23/UnrealReversalPythonBase), educational purposes only)
+- 🤖 **Reinforcement learning**: Q-Learning, SARSA and Deep Q-Learning experiments
+- 🏢 Real-world projects through Insper sprint sessions with **Dell, PagSeguro and BotCity**
 
 ---
 
