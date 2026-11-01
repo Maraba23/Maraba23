@@ -98,13 +98,10 @@ I built the platform that runs these challenges end to end:
 | Project | Description | Stack |
 |---|---|---|
 | [**UnrealReversalPythonBase**](https://github.com/Maraba23/UnrealReversalPythonBase) | How to reverse Unreal Engine games using Python (educational only) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**DCNotifier**](https://github.com/Maraba23/DCNotifier) | Lightweight lib that sends API errors as Discord notifications | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**MetaAiChess**](https://github.com/Maraba23/MetaAiChess) | Chess app with AI | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) |
-| [**editor-de-video-python**](https://github.com/Maraba23/editor-de-video-python) | Automated video editor written in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**Share-screen**](https://github.com/Maraba23/Share-screen) | Screen sharing in the browser | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**PortScanner**](https://github.com/Maraba23/PortScanner) | Simple port scanner built on nmap | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**insper.api.gateway**](https://github.com/Maraba23/insper.api.gateway) | Microservices platform with gateway and service discovery | ![Java](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) |
-| [**8-PuzzleAI**](https://github.com/Maraba23/8-PuzzleAI) | Search-based AI that solves the 8-puzzle | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+
+> 🔒 Most of my work, including the CTF platform and security tooling, lives in private repositories. Feel free to reach out if you'd like to know more.
 
 ---
 
