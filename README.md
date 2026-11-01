@@ -24,14 +24,14 @@ class Marcelo:
     location   = "São Paulo, Brazil 🇧🇷 🇵🇹"
     education  = "Computer Science @ Insper"
     focus      = ["Full stack web", "Cybersecurity", "Game reverse engineering", "AI / RL"]
-    community  = "President of InsperSec, Insper's security student organization"
+    community  = "Founder of InsperSec, Insper's security student organization (led it 2022-2025)"
     languages  = {"Portuguese": "native", "English": "B2"}
 
     def fun_fact(self):
         return "I learn best by breaking things, then building them back better."
 ```
 
-- 🔐 Leading **InsperSec**: CTFs, security talks and hands-on hacking workshops
+- 🔐 Founded **InsperSec** in 2022 and led it until 2025: CTFs, security talks and hands-on hacking workshops
 - 🧠 Exploring **reinforcement learning**: Q-Learning, SARSA, Deep Q-Learning, game-playing bots
 - 🎮 Studying **game internals**: Unreal Engine and C++ reverse engineering (for educational purposes)
 - 🏗️ Shipping real-world solutions through Insper sprint sessions with companies like **Dell, PagSeguro and BotCity**
