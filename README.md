@@ -3,14 +3,14 @@
 <div align="center">
 
 <a href="https://github.com/Maraba23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=7209B7&center=true&vCenter=true&width=600&lines=Founder+of+InsperSec;40%2B+CTF+challenges+authored;Web+AppSec+%2B+Blue+Team;Reverse+engineering+in+C%2B%2B;Full+stack+developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=7209B7&center=true&vCenter=true&width=600&lines=CTF+%40+Request.Coffee;Owner+of+RequestLabs;Founder+of+InsperSec;40%2B+CTF+challenges+authored;Web+AppSec+%2B+Blue+Team;Reverse+engineering+in+C%2B%2B;Full+stack+developer+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://maraba23.github.io"><img src="https://img.shields.io/badge/Portfolio-4361ee?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/marcelo-rabello-barranco-189089206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:marcelorb7@gmail.com"><img src="https://img.shields.io/badge/Email-7209b7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:rabello.barranco@gmail.com"><img src="https://img.shields.io/badge/Email-7209b7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Maraba23&style=for-the-badge&color=3a0ca3&label=PROFILE+VIEWS" />
 
 </div>
@@ -25,9 +25,19 @@ whoami:
   location:  São Paulo, Brazil 🇧🇷 🇵🇹
   education: Computer Science @ Insper
   role:      Security-minded full stack developer
+  work:      CTF @ Request.Coffee, owner of RequestLabs
   focus:     [Web AppSec, CTF engineering, Blue Team, Reverse Engineering]
   languages: { Portuguese: native, English: B2 }
 ```
+
+### ☕ Request.Coffee, CTF & owner of RequestLabs (2025 – present)
+
+At [**Request.Coffee**](https://request.coffee), a cybersecurity company working with pentest, SOC, CTF labs and consulting, I lead the CTF front. I own [**RequestLabs**](https://requestlabs.com.br), the company's CTF lab platform for events, training and technical assessments:
+
+- 🧪 **Exercise authoring** with objectives, flags, hints and scoring criteria, from templates or from scratch
+- 🐳 **Custom labs** that combine exercises into full environments, each running in isolated containers
+- 📈 **Real-time tracking** with live rankings, solve times, attempts and per-participant reports
+- 🏢 **Built for companies**: competitions and hackathons, hiring assessments and corporate training, with a white-label option
 
 ### 🏴 InsperSec, Founder & Leader (2022 – 2025)
 
@@ -97,6 +107,7 @@ I built the platform that runs these challenges end to end:
 
 | Project | Description | Stack |
 |---|---|---|
+| [**RequestLabs**](https://requestlabs.com.br) | Request.Coffee's CTF lab platform for events, training and technical assessments | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) |
 | [**UnrealReversalPythonBase**](https://github.com/Maraba23/UnrealReversalPythonBase) | How to reverse Unreal Engine games using Python (educational only) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**Share-screen**](https://github.com/Maraba23/Share-screen) | Screen sharing in the browser | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**PortScanner**](https://github.com/Maraba23/PortScanner) | Simple port scanner built on nmap | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
